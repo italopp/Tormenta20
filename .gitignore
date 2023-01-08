@@ -1,0 +1,14 @@
+# Build Artifacts
+dnd5e-compiled*
+dnd5e.lock
+
+# IDE
+.idea/
+.nova/
+.vs/
+
+# Node Modules
+node_modules/
+
+# OS Specific
+.DS_Store
