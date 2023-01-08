@@ -1,7 +1,7 @@
 {
-  "id": "dnd5e",
-  "title": "DnD5e - Fifth Edition System",
-  "description": "A system for playing the fifth edition of the worlds most popular role-playing game in the Foundry Virtual Tabletop environment.",
+  "id": "t20",
+  "title": "t20 - Tormenta20 RPG",
+  "description": "A system for playing Tormenta20 in the Foundry Virtual Tabletop environment.",
   "version": "2.0.3",
   "compatibility": {
     "minimum": "10",
@@ -13,8 +13,7 @@
   "download": "https://github.com/italopp/Tormenta20/archive/refs/heads/main.zip",
   "authors": [
     {
-      "name": "Atropos",
-      "url": "https://foundryvtt.com"
+      "name": "Italo"
     }
   ],
   "scripts": [],
