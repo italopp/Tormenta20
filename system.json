@@ -9,8 +9,8 @@
     "maximum": "10"
   },
   "url": "https://github.com/foundryvtt/dnd5e/",
-  "manifest": "https://raw.githubusercontent.com/italopp/Tormenta20/system.json",
-  "download": "https://github.com/foundryvtt/dnd5e/releases/download/release-2.0.3/dnd5e-release-2.0.3.zip",
+  "manifest": "https://raw.githubusercontent.com/italopp/Tormenta20/main/system.json",
+  "download": "https://github.com/italopp/Tormenta20/main.zip",
   "authors": [
     {
       "name": "Atropos",
