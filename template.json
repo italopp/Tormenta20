@@ -1,6 +1,6 @@
 {
   "Actor": {
-    "types": ["character", "npc", "vehicle"],
+    "types": ["heroi", "npc", "vehicle"],
     "templates": {
       "common": {
         "abilities": {
